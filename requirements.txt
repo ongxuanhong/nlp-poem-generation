@@ -1,0 +1,6 @@
+datasets==3.3.2
+evaluate==0.4.3
+transformers[sentencepiece]
+accelerate==1.4.0
+black
+black[jupyter]
